@@ -48,9 +48,8 @@ Special thanks to Dr. Muhammad Sheikh Sadi for his invaluable guidance and to th
 ## Contributors
 
 - [Asif Akbar](https://github.com/AsifAkbar106)  
-  Track circuit design, ESP32 programming, prototype construction.
+  Roll: 2007106
 
 - [Shaeer Musarrat Swapnil](https://github.com/musarratswapnil)  
-  Signal integration, ESP32 programming, software logic, prototype assembly.
-
+  Roll: 2007116
 
