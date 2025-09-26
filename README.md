@@ -7,7 +7,7 @@ This project involves the development of an automated railway signaling system p
 <div style="display: flex; justify-content: space-around;">
     <img src="Photo.jpg" alt="System Photo" height="300" width="400"/>
     <video width="400" height="300" controls>
-        <source src="Video.mp4" type="video/mp4">
+        <source src="Video.mp4" alt="System Video" type="video/mp4">
     </video>
 </div>
 
