@@ -4,7 +4,7 @@ This is a project for the course CSE3200: System Development Project
 ## Project Overview
 This project involves the development of an automated railway signaling system prototype for Bangladesh Railway. The goal is to improve safety and operational efficiency by automating train detection, signaling, and track switching. The system uses ESP-32 microcontrollers, Arduino, DC-based track circuits, and servo motors to simulate a small-scale railway junction.
 
-<img src="photo.jpg" alt="System Photo" height="300" width="400"/>
+<img src="Photo.jpg" alt="System Photo" height="300" width="400"/>
 
 ## Features
 - Real-time train detection using DC-based track circuits on four tracks
